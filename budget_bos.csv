@@ -1,0 +1,17 @@
+,Car Type,Description,Seats,Pay Later Rate,Pay Now Rate,Bluetooth,Backup Camera,Automatic Transmission
+0,Minivan,Chrysler Pacifica or similar,2,$923.99,$831.59,Yes,Yes,Yes
+1,Intermediate SUV,Toyota Rav4 or similar,2,$489.99,$440.99,Yes,Yes,Yes
+2,Economy,Ford Fiesta or similar,2,$490.99,$441.89,Yes,Yes,Yes
+3,Compact,Kia Soul or similar,2,$493.99,$444.59,Yes,Yes,Yes
+4,Intermediate Electric,Chevrolet Bolt or similar,2,$496.99,$422.44,Yes,Yes,Yes
+5,Standard SUV,Ford Edge or similar,2,$503.99,$453.59,Yes,Yes,Yes
+6,Standard,Volkswagen Jetta or similar,2,$513.99,$462.59,Yes,Yes,Yes
+7,Full-Size,Toyota Camry or similar,2,$513.99,$462.59,Yes,Yes,Yes
+8,Full-Size Hybrid,Toyota Prius Hybrid or similar,2,$523.99,$419.19,Yes,Yes,Yes
+9,Intermediate,Toyota Corolla or similar,2,$538.99,$478.99,Yes,Yes,Yes
+10,Full-Size Pickup Truck,RAM 1500 or similar,2,$558.99,$447.19,Yes,Yes,Yes
+11,Standard Recreational Vehicle,Jeep Wrangler 4-Door or similar,2,$594.99,$475.99,Yes,Yes,Yes
+12,Standard Sport,Dodge Challenger or similar,2,$649.99,$519.99,Yes,Yes,Yes
+13,Full Size SUV,Kia EV6 or similar,2,"$1,190.99","$1,071.89",No,No,Yes
+14,Premium Elite SUV,Jeep Grand Wagoneer or similar,2,"$1,240.99",$992.79,Yes,Yes,Yes
+15,Premium SUV,Chevrolet Suburban or similar,2,"$1,378.99","$1,241.09",Yes,Yes,Yes
